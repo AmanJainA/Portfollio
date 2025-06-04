@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfollio/static/css/main.4c550282.css",
-    "main.js": "/Portfollio/static/js/main.68270309.js",
+    "main.js": "/Portfollio/static/js/main.d207aea0.js",
     "static/js/453.1407b060.chunk.js": "/Portfollio/static/js/453.1407b060.chunk.js",
     "static/media/07.png": "/Portfollio/static/media/07.8e59e08d18bdc340f6e8.png",
     "static/media/02.png": "/Portfollio/static/media/02.402142e7b9de2b8cdf20.png",
@@ -9,6 +9,7 @@
     "static/media/04.png": "/Portfollio/static/media/04.4e662b90953b09e7fb0e.png",
     "static/media/14.png": "/Portfollio/static/media/14.236753a8e779d46feba6.png",
     "static/media/06.png": "/Portfollio/static/media/06.d60168b336666cc46dcb.png",
+    "static/media/AmanJainResume.pdf": "/Portfollio/static/media/AmanJainResume.a2c03e208c7aa607b676.pdf",
     "static/media/bootstrap-icons.woff?": "/Portfollio/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/01.png": "/Portfollio/static/media/01.21e69d2a1b53a418c475.png",
     "static/media/12.png": "/Portfollio/static/media/12.e952739de9c5ff106627.png",
@@ -36,11 +37,11 @@
     "static/media/dart.svg": "/Portfollio/static/media/dart.9e9f20db567adbfe408b388eefa19b1b.svg",
     "static/media/flutter.svg": "/Portfollio/static/media/flutter.5be541dd37acf42d0d53cc72fd48362c.svg",
     "main.4c550282.css.map": "/Portfollio/static/css/main.4c550282.css.map",
-    "main.68270309.js.map": "/Portfollio/static/js/main.68270309.js.map",
+    "main.d207aea0.js.map": "/Portfollio/static/js/main.d207aea0.js.map",
     "453.1407b060.chunk.js.map": "/Portfollio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c550282.css",
-    "static/js/main.68270309.js"
+    "static/js/main.d207aea0.js"
   ]
 }
